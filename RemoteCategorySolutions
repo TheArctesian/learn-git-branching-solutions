@@ -41,7 +41,7 @@ git push
 
 git reset --hard o/master
 git checkout -b feature C2
-git push origin feature
+git push 
 
 2.1 Push Master!
 
